@@ -1,4 +1,4 @@
 # Android Section
 
-- [Android URLs](https://github.com/admin404/Templates/tree/master/Android/URLs)
-- [Android DOCs](https://github.com/admin404/Templates/tree/master/Android/DOCs)
+- [Android Java DOCs](https://github.com/admin404/Templates/tree/master/Java/)
+- [Android Flutter DOCs](https://github.com/admin404/Templates/tree/master/Flatter/)
